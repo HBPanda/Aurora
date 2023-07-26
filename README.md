@@ -9,4 +9,6 @@
 
 - Copy contents from mod-1.16.5 into mods folder
 
+![setup-1.png](./assets/images/setup-2.png)
+
 - Launch Mincraft Launcher and enjoy!
